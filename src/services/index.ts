@@ -1,0 +1,1 @@
+export * as Notary from './notary/notary.repository'
